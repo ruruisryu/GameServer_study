@@ -725,3 +725,5 @@ sysinfo.txt
 # End of https://www.toptal.com/developers/gitignore/api/unity,csharp,rider,visualstudio
 
 .idea/.idea.GameServer_study.dir/.idea/
+
+Server/.idea/.idea.Server/.idea/
